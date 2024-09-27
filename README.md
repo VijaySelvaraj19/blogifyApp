@@ -16,9 +16,9 @@
 
 ## Screenshots
 
-![Home Screen](./assets/homescreen.png)
-![Create Blog Post](./assets/createblog.jpg)
-![Blog Post Details](./assets/blogpost.jpg)
+![Home Screen](lib/assets/homescreen.png)
+![Create Blog Post](lib/assets/createblog.jpg)
+![Blog Post Details](lib/assets/blogpost.jpg)
 
 
 
