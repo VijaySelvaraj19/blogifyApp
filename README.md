@@ -54,7 +54,9 @@ To get started with BlogifyApp, follow the steps below.
 4. Set up Firebase:
 
    1)Create a Firebase project.
+
    2)Enable Firestore and Firebase Storage.
+   
    3)Add your google-services.json (for Android) or GoogleService-Info.plist (for iOS) in the respective directory.
 
 
